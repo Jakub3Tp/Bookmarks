@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 10.10.2024" />
+    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 10.10.2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Jakub3Tp/Bookmarks.git",
-    "accountId": "767bc0ec-941e-4aad-9477-49bb0f426553"
+    "accountId": "a5358c56-0c30-4b3d-97e1-a320c9573371"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -43,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Django Server.Booksmarks.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -85,7 +89,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -99,6 +104,7 @@
       <updated>1727956290273</updated>
       <workItem from="1727956294618" duration="3000" />
       <workItem from="1728287795364" duration="359000" />
+      <workItem from="1729161954835" duration="1722000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 10.10.2024">
       <option name="closed" value="true" />
