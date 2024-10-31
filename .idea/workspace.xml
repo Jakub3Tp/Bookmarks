@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 24.10.2024">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 28.10.2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +114,7 @@
       <workItem from="1729497022014" duration="2281000" />
       <workItem from="1729499425500" duration="41000" />
       <workItem from="1729766837448" duration="5187000" />
+      <workItem from="1730105554506" duration="2387000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 10.10.2024">
       <option name="closed" value="true" />
@@ -181,17 +180,45 @@
       <option name="project" value="LOCAL" />
       <updated>1729771796022</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit 28.10.2024">
+      <option name="closed" value="true" />
+      <created>1730105672063</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730105672063</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit 28.10.2024">
+      <option name="closed" value="true" />
+      <created>1730107918406</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730107918406</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 10.10.2024" />
     <MESSAGE value="Commit 17.10.2024" />
     <MESSAGE value="Commit 21.10.2024" />
     <MESSAGE value="Commit 24.10.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 24.10.2024" />
+    <MESSAGE value="Commit 28.10.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 28.10.2024" />
   </component>
 </project>
