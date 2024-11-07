@@ -8,7 +8,7 @@
 </head>
 <body>
     <header id="header">
-        <span>Bookmarks</span>
+        <span class="logo">Bookmarks</span>
         {% if request.user.is_authenticated %}
         <ul class="menu">
         <li {% if section == "dashboard" %}class="selected"{% endif %}>
@@ -36,6 +36,16 @@
         </span>
 
     </header>
+    {% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+            <li class="{{ message.tags }}">
+                <a href="#" class="close">x</a>
+            </li>
+            {% endfor %}
+    </ul>
+
+    {% endif %}
     <main id="content">
         {% block content %}
         {% endblock %}
