@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 04.11.2024" />
+    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 07.11.2024">
+      <change afterPath="$PROJECT_DIR$/images/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booksmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Booksmarks/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,6 +53,8 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Django Server.Booksmarks.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;Database detector&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
@@ -118,6 +127,8 @@
       <workItem from="1730105554506" duration="2387000" />
       <workItem from="1730375082280" duration="4512000" />
       <workItem from="1730710905541" duration="2344000" />
+      <workItem from="1730981355008" duration="3115000" />
+      <workItem from="1731919897217" duration="1265000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 10.10.2024">
       <option name="closed" value="true" />
@@ -215,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730713208992</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit 07.11.2024">
+      <option name="closed" value="true" />
+      <created>1730984721502</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730984721502</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +259,7 @@
     <MESSAGE value="Commit 28.10.2024" />
     <MESSAGE value="Commit 31.10.2024" />
     <MESSAGE value="Commit 04.11.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 04.11.2024" />
+    <MESSAGE value="Commit 07.11.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 07.11.2024" />
   </component>
 </project>
