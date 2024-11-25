@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 18.11.2024">
-      <change afterPath="$PROJECT_DIR$/images/forms.py" afterDir="false" />
+    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 21.11.2024">
+      <change afterPath="$PROJECT_DIR$/images/templates/images/image/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booksmarks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Booksmarks/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +131,8 @@
       <workItem from="1730710905541" duration="2344000" />
       <workItem from="1730981355008" duration="3115000" />
       <workItem from="1731919897217" duration="2417000" />
-      <workItem from="1732189667157" duration="2542000" />
+      <workItem from="1732189667157" duration="4464000" />
+      <workItem from="1732524781733" duration="1839000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 10.10.2024">
       <option name="closed" value="true" />
@@ -244,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731922137235</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit 21.11.2024">
+      <option name="closed" value="true" />
+      <created>1732194858252</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732194858252</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +281,7 @@
     <MESSAGE value="Commit 04.11.2024" />
     <MESSAGE value="Commit 07.11.2024" />
     <MESSAGE value="Commit 18.11.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 18.11.2024" />
+    <MESSAGE value="Commit 21.11.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 21.11.2024" />
   </component>
 </project>
