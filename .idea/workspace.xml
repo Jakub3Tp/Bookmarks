@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 28.11.2024">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-    </list>
+    <list default="true" id="1f55077e-8177-46b6-b154-53c7c5ac7cbb" name="Changes" comment="Commit 02.12.2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +68,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/static/css" />
       <recent name="$PROJECT_DIR$/account/templates/account" />
     </key>
   </component>
@@ -132,7 +130,7 @@
       <workItem from="1732189667157" duration="4464000" />
       <workItem from="1732524781733" duration="2425000" />
       <workItem from="1732792825275" duration="5815000" />
-      <workItem from="1733129279801" duration="773000" />
+      <workItem from="1733129279801" duration="2646000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 10.10.2024">
       <option name="closed" value="true" />
@@ -270,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732799343087</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Commit 02.12.2024">
+      <option name="closed" value="true" />
+      <created>1733131746603</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1733131746603</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +306,7 @@
     <MESSAGE value="Commit 21.11.2024" />
     <MESSAGE value="Commit 25.11.2024" />
     <MESSAGE value="Commit 28.11.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 28.11.2024" />
+    <MESSAGE value="Commit 02.12.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 02.12.2024" />
   </component>
 </project>

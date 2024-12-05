@@ -7,7 +7,7 @@ var head = document.getElementsByTagName('head')[0]
 var link = document.createElement('link');
 link.rel = 'stylesheet';
 link.type = 'text/css';
-link.href = siteUrl + '?r=' + Math.floor(Math.random()*9999999999999);
+link.href = styleUrl + '?r=' + Math.floor(Math.random()*9999999999999);
 head.appendChild(link);
 
 var body = document.getElementsByTagName('body')[0]
@@ -30,4 +30,28 @@ function bookmarkletLaunch(){
     bookmarklet.querySelector('#close').addEventListener('click', function(){
         bookmarklet.style.display = 'none'
     })
+
+    images = document.querySelectorAll('img[src$=".jpg"], img[src$=".jpeg"], img[src$=".png"]')
+    //console.log(images)
+    images.forEach(image =>{
+        if(image.naturalWidth > minWidth && image.naturalHeight > minHeight){
+            var imageFound = document.createElement('img')
+            imageFound.src = image.src
+            imagesFound.appendChild(imageFound)
+        }
+    })
+
+    imagesFound.querySelectorAll('img').forEach(image =>{
+        image.addEventListener('click', function(event){
+            imageSelected = event.target
+            bookmarklet.style.display = 'none'
+            window.open(siteUrl + 'images/create/?url='
+                + encodeURIComponent(imageSelected.src)
+                + '&title='
+                + encodeURIComponent(document.title),
+                '_blank')
+        })
+    })
 }
+
+bookmarkletLaunch()
